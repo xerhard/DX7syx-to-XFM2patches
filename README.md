@@ -6,7 +6,7 @@ Code is built on javac 11.0.7
 
 ## File/Directory structure
 
-unzip the zipfile DX7toXFM2.zip
+unzip the zipfile **DX7toXFM2.zip**
 
 put your sys files in the same folder as the **ReadSysEx.class** file. A vaild 32 preset DX7 syx files should always be 4104 bytes long.
 
@@ -24,10 +24,11 @@ The **out/DX7** folder contains the extracted settings of the DX7 patches. These
 Run in commanline tool:
 
 ### Linux/MacOS
-
+  `cd <path_to_unzipped_location>/DX7toXFM2`
   `java -classpath .:./json_simple-1.1.jar ReadSysEx <filename>.syx`
   
 ### Windows (not checked)
 
+  `cd <path_to_unzipped_location>\DX7toXFM2`
   `java -classpath .;.\json_simple-1.1.jar ReadSysEx <filename>.syx`
   
