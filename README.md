@@ -24,11 +24,17 @@ The **out/DX7** folder contains the extracted settings of the DX7 patches. These
 Run in commanline tool:
 
 ### Linux/MacOS
-  `cd <path_to_unzipped_location>/DX7toXFM2`
-  `java -classpath .:./json_simple-1.1.jar ReadSysEx <filename>.syx`
+
+```
+cd <path_to_unzipped_location>/DX7toXFM2
+java -classpath .:./json_simple-1.1.jar ReadSysEx <filename>.syx
+```
   
 ### Windows (not checked)
 
-  `cd <path_to_unzipped_location>\DX7toXFM2`
-  `java -classpath .;.\json_simple-1.1.jar ReadSysEx <filename>.syx`
+```
+cd <path_to_unzipped_location>\DX7toXFM2
+java -classpath .;.\json_simple-1.1.jar ReadSysEx <filename>.syx
+```
+
   
