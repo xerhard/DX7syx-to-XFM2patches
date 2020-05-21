@@ -8,7 +8,7 @@ Code is built on javac 11.0.7
 
 unzip the zipfile **DX7toXFM2.zip**
 
-put your sys files in the same folder as the **ReadSysEx.class** file. A vaild 32 preset DX7 syx files should always be 4104 bytes long.
+put your sys files in the same folder as the **ReadSysEx.class** file. A valid 32 preset DX7 syx files should always be 4104 bytes long.
 
 a syx file is included as example: aegix.syx
 
