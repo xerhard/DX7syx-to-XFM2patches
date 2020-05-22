@@ -10,7 +10,7 @@ unzip the zipfile **DX7toXFM2.zip**
 
 put your sysex files in the same folder as the **ReadSysEx.class** file. A valid 32 preset DX7 syxex files should always be 4104 bytes long.
 
-A sysex file is included as example: aegix.syx
+A few sysex files are included as example
 
 the **conf** directory contains an empty patch and the 32 DX7 algorithms.
 
