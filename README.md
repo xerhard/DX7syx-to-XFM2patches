@@ -37,4 +37,8 @@ cd <path_to_unzipped_location>\DX7toXFM2
 java -classpath .;.\json_simple-1.1.jar ReadSysEx <filename>.syx
 ```
 
+## some SysEx sources
+
+- http://dxsysex.com/
+- https://homepages.abdn.ac.uk/d.j.benson/pages/html/dx7.html#patches
   
