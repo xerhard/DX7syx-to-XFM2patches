@@ -4,7 +4,7 @@ Quick and dirty convertion of DX7 sysex files containing 32 presets into XFM2 js
 Code is built on javac 11.0.7
 
 # WARNING !
-Using this software is kind of a trap. When converting DX7 presets into XFM2 patches you are bypassing the far more extensive posabilities of the XFM2. Especially you are able to do far more complex modulation and feedback on the Operators. The real fun starts with a clean canvas ... ;) 
+Using this software is kind of a trap. When converting DX7 presets into XFM2 patches you are bypassing the far more extensive capabilities of the XFM2. Especially you are able to do far more complex modulation and feedback on the Operators. The real fun starts with a clean canvas ... ;) 
 
 ## File/Directory structure
 
